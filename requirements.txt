@@ -1,0 +1,2 @@
+flet==0.23.0
+# If you want latest compatible version, update accordingly. Keep requirements minimal to ease mobile packaging.
